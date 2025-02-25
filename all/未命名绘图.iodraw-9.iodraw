@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QeoczauajNhpHoJDU_7G-20" value="视细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="250" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeoczauajNhpHoJDU_7G-21" value="眼球的折光装置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="90" height="20" as="geometry" />
@@ -105,6 +105,12 @@
             <mxPoint x="290" y="180" as="sourcePoint" />
             <mxPoint x="330" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QeoczauajNhpHoJDU_7G-27" value="视细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeoczauajNhpHoJDU_7G-28" value="视细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
