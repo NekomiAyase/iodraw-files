@@ -142,8 +142,8 @@
             <mxPoint x="320" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QeoczauajNhpHoJDU_7G-36" value="视杆细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="60" height="20" as="geometry" />
+        <mxCell id="QeoczauajNhpHoJDU_7G-36" value="包括角膜、房水、晶状体和玻璃体。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="310" width="206" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
