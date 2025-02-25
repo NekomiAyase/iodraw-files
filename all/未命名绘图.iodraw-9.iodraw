@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="XI1T05kflTqNnTkd-hJh">
-    <mxGraphModel dx="1531" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1531" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-50" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QeoczauajNhpHoJDU_7G-2" value="概念" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="-10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QeoczauajNhpHoJDU_7G-3" value="感受器的分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
@@ -145,7 +145,7 @@
         <mxCell id="QeoczauajNhpHoJDU_7G-36" value="包括角膜、房水、晶状体和玻璃体。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="310" width="206" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeoczauajNhpHoJDU_7G-37" value="近视" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QeoczauajNhpHoJDU_7G-37" value="&lt;div&gt;1近视产生的原因：晶状体凸度增加，折光性增&lt;/div&gt;&lt;div&gt;强，光线进入眼晴后，成像落在视网膜之前。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="350" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QeoczauajNhpHoJDU_7G-38" value="近视" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
