@@ -13,6 +13,9 @@
         <mxCell id="QeoczauajNhpHoJDU_7G-3" value="感受器的分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QeoczauajNhpHoJDU_7G-4" value="感受器的分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
