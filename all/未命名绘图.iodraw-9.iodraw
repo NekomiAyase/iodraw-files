@@ -127,8 +127,8 @@
         <mxCell id="QeoczauajNhpHoJDU_7G-32" value="感受红绿蓝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="230" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QeoczauajNhpHoJDU_7G-33" value="视锥细胞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="60" height="20" as="geometry" />
+        <mxCell id="QeoczauajNhpHoJDU_7G-33" value="能感受弱光刺激" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
