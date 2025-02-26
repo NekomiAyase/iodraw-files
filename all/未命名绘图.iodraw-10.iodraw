@@ -7,6 +7,9 @@
         <mxCell id="J0vCPVB66ULzOqaIM80B-1" value="物质与能量代谢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="J0vCPVB66ULzOqaIM80B-4" value="物质与能量代谢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
