@@ -119,34 +119,34 @@
           <mxGeometry x="370" y="356.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="60" height="62.5" as="geometry" />
+          <mxGeometry x="320" y="480" width="60" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="70" as="sourcePoint" />
-            <mxPoint x="530" y="70" as="targetPoint" />
+            <mxPoint x="380" y="480" as="sourcePoint" />
+            <mxPoint x="520" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="132.5" as="sourcePoint" />
-            <mxPoint x="530" y="132.5" as="targetPoint" />
+            <mxPoint x="380" y="542.5" as="sourcePoint" />
+            <mxPoint x="520" y="542.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="100.75" as="sourcePoint" />
-            <mxPoint x="530" y="100" as="targetPoint" />
+            <mxPoint x="350" y="510.75" as="sourcePoint" />
+            <mxPoint x="520" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J0vCPVB66ULzOqaIM80B-69" value="糖的代谢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="70" height="30" as="geometry" />
+        <mxCell id="J0vCPVB66ULzOqaIM80B-69" value="磷酸原系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-70" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;脂肪代谢&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="70" width="80" height="40" as="geometry" />
+          <mxGeometry x="350" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-71" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;蛋白质代谢&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="110" width="80" height="40" as="geometry" />
+          <mxGeometry x="350" y="520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
