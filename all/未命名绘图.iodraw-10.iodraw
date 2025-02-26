@@ -115,11 +115,8 @@
         <mxCell id="J0vCPVB66ULzOqaIM80B-49" value="2.精神活动" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="334" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J0vCPVB66ULzOqaIM80B-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="329.5" as="sourcePoint" />
-            <mxPoint x="520" y="330" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="J0vCPVB66ULzOqaIM80B-51" value="3.食物的特殊动力作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="304" y="300" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
