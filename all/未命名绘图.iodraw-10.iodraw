@@ -14,10 +14,10 @@
           <mxGeometry x="150" y="300" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-6" value="基本能量系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="160" height="20" as="geometry" />
+          <mxGeometry x="160" y="500" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-11" value="运动训练对磷酸原系统的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="550" width="160" height="20" as="geometry" />
+          <mxGeometry x="150" y="630" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J0vCPVB66ULzOqaIM80B-1" target="J0vCPVB66ULzOqaIM80B-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -90,9 +90,6 @@
             <mxPoint x="340" y="290" as="sourcePoint" />
             <mxPoint x="540" y="291" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="J0vCPVB66ULzOqaIM80B-41" value="糖的代谢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="344" y="135" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="J0vCPVB66ULzOqaIM80B-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
