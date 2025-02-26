@@ -112,6 +112,9 @@
         <mxCell id="J0vCPVB66ULzOqaIM80B-47" value="1.肌肉活动&lt;div&gt;肌肉活动对能量代谢的影响最为显著&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="J0vCPVB66ULzOqaIM80B-49" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="248" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
