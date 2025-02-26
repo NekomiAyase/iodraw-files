@@ -73,7 +73,7 @@
         <mxCell id="J0vCPVB66ULzOqaIM80B-28" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;蛋白质代谢&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J0vCPVB66ULzOqaIM80B-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="J0vCPVB66ULzOqaIM80B-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.9;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="J0vCPVB66ULzOqaIM80B-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="233.75" as="sourcePoint" />
             <mxPoint x="500" y="233.75" as="targetPoint" />
@@ -87,8 +87,8 @@
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="309.5" as="sourcePoint" />
-            <mxPoint x="500" y="310" as="targetPoint" />
+            <mxPoint x="340" y="290" as="sourcePoint" />
+            <mxPoint x="500" y="290.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-41" value="糖的代谢" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -105,8 +105,8 @@
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-46" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="360" as="sourcePoint" />
-            <mxPoint x="500" y="360.5" as="targetPoint" />
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="500" y="330.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-47" value="1.肌肉活动&lt;div&gt;肌肉活动对能量代谢的影响最为显著&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
