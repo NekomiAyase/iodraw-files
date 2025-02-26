@@ -10,8 +10,11 @@
         <mxCell id="J0vCPVB66ULzOqaIM80B-4" value="主要营养物质在体内的代谢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J0vCPVB66ULzOqaIM80B-5" value="主要营养物质在体内的代谢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J0vCPVB66ULzOqaIM80B-5" value="影响能量代谢的因素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J0vCPVB66ULzOqaIM80B-6" value="主要营养物质在体内的代谢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
