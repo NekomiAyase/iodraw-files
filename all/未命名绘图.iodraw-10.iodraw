@@ -116,7 +116,10 @@
           <mxGeometry x="334" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0vCPVB66ULzOqaIM80B-51" value="3.食物的特殊动力作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304" y="300" width="140" height="30" as="geometry" />
+          <mxGeometry x="334" y="300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0vCPVB66ULzOqaIM80B-52" value="3.食物的特殊动力作用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="344" y="310" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
