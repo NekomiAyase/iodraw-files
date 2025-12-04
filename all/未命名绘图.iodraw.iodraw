@@ -13,8 +13,8 @@
         <mxCell id="Zpqn1rY6UOJOiugfoI2h-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cf0000;" vertex="1" parent="1">
           <mxGeometry x="160" y="220" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Zpqn1rY6UOJOiugfoI2h-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="208" width="50" height="30" as="geometry" />
+        <mxCell id="Zpqn1rY6UOJOiugfoI2h-5" value="&lt;div&gt;关爱学生，具备从事&lt;/div&gt;&lt;div&gt;教师职业应有的责任&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;心.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
