@@ -10,7 +10,7 @@
         <mxCell id="Zpqn1rY6UOJOiugfoI2h-1" value="&lt;font color=&quot;#ffffff&quot;&gt;职业认知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D2070B;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zpqn1rY6UOJOiugfoI2h-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zpqn1rY6UOJOiugfoI2h-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cf0000;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
