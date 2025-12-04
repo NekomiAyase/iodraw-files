@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zpqn1rY6UOJOiugfoI2h-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="130" width="180" height="260" as="geometry" />
+          <mxGeometry x="120" y="130" width="200" height="260" as="geometry" />
         </mxCell>
         <mxCell id="Zpqn1rY6UOJOiugfoI2h-1" value="&lt;font color=&quot;#ffffff&quot;&gt;职业认知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D2070B;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zpqn1rY6UOJOiugfoI2h-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cf0000;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="20" height="20" as="geometry" />
+          <mxGeometry x="160" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zpqn1rY6UOJOiugfoI2h-5" value="&lt;div&gt;关爱学生，具备从事&lt;/div&gt;&lt;div&gt;教师职业应有的责任&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;心.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="220" width="130" height="60" as="geometry" />
