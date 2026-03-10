@@ -16,19 +16,19 @@
         <mxCell id="ijmgThyYnqfnP_3KXsmG-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="50" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ijmgThyYnqfnP_3KXsmG-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ijmgThyYnqfnP_3KXsmG-6" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="439.5" as="sourcePoint" />
             <mxPoint x="420" y="439.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ijmgThyYnqfnP_3KXsmG-8" value="第一轮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="168" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ijmgThyYnqfnP_3KXsmG-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="449.5" as="sourcePoint" />
-            <mxPoint x="430" y="449.5" as="targetPoint" />
+            <mxPoint x="90" y="210" as="sourcePoint" />
+            <mxPoint x="160" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
