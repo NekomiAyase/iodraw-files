@@ -7,6 +7,9 @@
         <mxCell id="ijmgThyYnqfnP_3KXsmG-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="50" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ijmgThyYnqfnP_3KXsmG-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="50" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
